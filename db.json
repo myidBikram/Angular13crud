@@ -1,0 +1,50 @@
+{
+  "ProductList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "This is a Fresh apple",
+      "date": "2022-03-14T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 123,
+      "comment": "Rotten MAngo",
+      "date": "2021-12-16T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "kiwi",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 122,
+      "comment": "Imported from farmers",
+      "date": "2022-03-22T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "qqq",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 111,
+      "comment": "sasasas",
+      "date": "2022-03-17T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
